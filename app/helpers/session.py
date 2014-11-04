@@ -1,7 +1,7 @@
 # Author: Alex Ksikes
 
 # TODO:
-# - webpy session module is ineficient and makes 5 db calls per urls!
+# - webpy session module is inefficient and makes 5 db calls per urls!
 # - because sessions are attached to an app, every user has sessions whether they atually need it or not.
 # - login required decorator should save intended user action before asking to login.
 
